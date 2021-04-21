@@ -2,7 +2,7 @@
 
 <img src="img/green.png" width="50" height="50">
 
-# Cpp-lab-7
+# Cpp-lab-7 (лабораторная по курсу C++, мой код находится в ветке b37)
 
 ## Практикум №7 (Ocean)
 
